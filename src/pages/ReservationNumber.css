@@ -1,0 +1,133 @@
+.reservation-container {
+  width: 100%;
+  max-width: 800px;
+  padding: 40px 0;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.search-input {
+  padding: 15px;
+  font-size: 26px;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  margin-right: 20px;
+  transition: border-color 0.3s;
+}
+
+.search-input:focus {
+  border-color: #005b96;
+  outline: none;
+}
+.search-input-help{
+  font-size: 20px;
+}
+
+.search-button {
+  padding: 20px 20px;
+  font-size: 36px;
+  background-color: #333;
+  color: #fff;
+  border: 3px solid #333;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  min-width: 150px;
+  text-align: center;
+}
+
+.search-button:hover {
+  background-color: #444;
+  border-color: #444;
+}
+
+.search-button:active {
+  background-color: #222;
+  border-color: #222;
+  transform: scale(0.98);
+}
+
+.reservation-details {
+  margin-top: 40px;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #005b96;
+}
+
+.reservation-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 20px;
+  color: #333;
+}
+
+.reservation-table th,
+.reservation-table td {
+  border: 1px solid #d1d1d1;
+  padding: 15px;
+  font-size: 18px;
+  text-align: left;
+}
+
+.reservation-table th {
+  background: #f4f6f9;
+  color: #005b96;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.reservation-table tr:hover {
+  background-color: #e3f2fd;
+}
+
+.reservation-table .password-button {
+  position: relative;
+  cursor: pointer;
+  color: #005b96;
+  font-weight: bold;
+}
+
+.reservation-table .password-button .password-text {
+  position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.reservation-table .password-button:hover .password-text {
+  display: block;
+  opacity: 1;
+}
+
+.no-results {
+  color: #e74c3c;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.no-results::before {
+  content: "⚠️ ";
+  font-size: 28px;
+}

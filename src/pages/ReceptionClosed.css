@@ -1,0 +1,11 @@
+.reception-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.reception-container .notice-box {
+  margin-bottom: 150px;
+}

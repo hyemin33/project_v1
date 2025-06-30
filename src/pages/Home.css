@@ -1,0 +1,16 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+}
+
+.btn-area {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.btn-area > button {
+  width: calc(50% - 20px);
+}

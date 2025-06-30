@@ -1,0 +1,80 @@
+{
+  "self_check_in_title": "自助登机💻👆",
+  "self_check_in": "自助登机",
+  "faq_title": "帮助与问题🙋‍♂️❓",
+  "home": "🏠 HOME",
+  "faq": "❓ HELP",
+  "reception_closed_title": "前台已关闭 🕰️❌",
+  "reception_closed_notice": "没有空房。已满员🛏️❌",
+  "help_notice": "需要帮助吗？<br><span class=\"highlight\">\"请使用柜台上的电话\"</span>",
+  "cleaning_time_title": "清洁时间🛏️🧹",
+  "cleaning_time_desk": "<b>入住时间为下午3点,</b> <br>无法提前入住<br>(自助入住系统将在下午3点开放)<br><br>您可以在厨房的沙发上等待🪑👌",
+  "no_checkout_title": "无需退房手续 😄✋",
+  "no_checkout_desk": "无需办理退房手续,<br>带好您的行李离开即可✋",
+  "storage_title": "🧳 行李寄存 🧳",
+  "storage_desk": "请将行李放在柜台前的桌子下方。<br/>(监控摄像头正在监视 📷👀)",
+  "enter_number":"请输入预订号码。",
+  "booking_name":"姓名",
+  "booking_room_number":"房间号",
+  "booking_room_password" :"房间密码",
+  "booking_checkout_date":"退房日期",
+  "how_to_checkin":"如何办理入住",
+  "how_to_checkin_desk":"穿上写有您房间（床）号的拖鞋进入房间<br>需要毛巾、牙膏或牙刷，请在柜台右侧自取",
+  "not_found_number":"找不到预订号码。请仅输入您的名字，不要输入姓氏进行搜索。",
+  "hover_password" :"将鼠标悬停以查看密码",
+  
+  "faq_list": [
+    {
+      "question": "我想洗衣服",
+      "answer": "洗衣费用为每袋5,000韩元（包含洗涤和烘干）。将现金放入信封，与衣物一起放入洗衣袋，放在柜台旁边。24小时内完成，完成后会放在柜台旁边。"
+    },
+    {
+      "question": "大门什么时候关闭？",
+      "answer": "大门24小时开放。"
+    },
+    {
+      "question": "在哪里可以喝水？",
+      "answer": "请使用厨房桌子上的净水器。热水请使用电热水壶。"
+    },
+    {
+      "question": "我需要更多毛巾",
+      "answer": "请将用过的毛巾放在2楼的毛巾篮中，然后从柜台右侧的毛巾篮中取新的毛巾。"
+    },
+    {
+      "question": "Wi-Fi在哪里？",
+      "answer": "Wi-Fi账号和密码位于房间内的开关上方或门旁边。"
+    },
+    {
+      "question": "什么时候可以吃早餐？",
+      "answer": "早餐为自助，供应时间为上午7点至10点。"
+    },
+    {
+      "question": "为什么柜台没有人？",
+      "answer": "我们是无人管理的旅馆，这样可以降低成本，提供更便宜的价格。如果需要帮助，请随时拨打电话联系。"
+    },
+    {
+      "question": "可以借用变压器和手机充电器吗？",
+      "answer": "请从柜台上的盒子里取用，退房时请务必归还。"
+    },
+    {
+      "question": "有公共卫生间吗？",
+      "answer": "抱歉，1楼没有公共卫生间。"
+    },
+    {
+      "question": "公共区域什么时候可以使用？",
+      "answer": "24小时开放，但由于1楼有客房，晚上11点后和早上请保持安静。"
+    },
+    {
+      "question": "我想存放行李",
+      "answer": "可以在入住前或退房后将行李存放在柜台前。"
+    },
+    {
+      "question": "可以称行李吗？",
+      "answer": "柜台前的桌子上有便携式秤。"
+    },
+    {
+      "question": "我需要更多帮助",
+      "answer": "请使用柜台上的电话联系我们。"
+    }
+  ]
+}

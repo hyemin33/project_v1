@@ -1,0 +1,79 @@
+{
+  "self_check_in_title": "SELF CHECK-IN💻👆",
+  "self_check_in": "SELF CHECK-IN",
+  "faq_title": "HELP & QUESTIONS🙋‍♂️❓",
+  "home": "🏠 HOME",
+  "faq": "❓ HELP",
+  "reception_closed_title": "FRONT DESK IS CLOSED 🕰️❌",
+  "reception_closed_notice": "NO ROOMS AVAILABLE. WE ARE FULL🛏️❌",
+  "help_notice": "Need help?<br><span class=\"highlight\">\"Use the phone at the counter\"</span><br>",
+  "cleaning_time_title": "CLEANING TIME🛏️🧹",
+  "cleaning_time_desk": "<b>CHECK-IN STARTS AT 3 PM.</b><br>EARLY CHECK-IN IS NOT AVAILABLE<br>(The sheck check-in system will open at 3 PM)<br><br>You can sit on the sofa in the kitchen and wait🪑👌",
+  "no_checkout_title": "NO NEED TO CHECK OUT 😄✋",
+  "no_checkout_desk":"No Check-out Procedure Needed.<br>Just Take Your Belongings and Leave ✋",
+  "storage_title": "🧳 BAG STORAGE 🧳",
+  "storage_desk": "You Can Leave Your Bags Under the Table in Front of the Front Desk<br/>(CCTV is watching📷👀)",
+  "enter_number":"Please enter your booking number",
+  "booking_name":"Name",
+  "booking_room_number":"Room Number",
+  "booking_room_password" :"Room Password",
+  "booking_checkout_date":"Check-out Date",
+  "how_to_checkin":"How to Check In",
+  "how_to_checkin_desk":"Wear the slippers with your room (bed) number before going into the room.<br>If you need a towel, toothpaste, or toothbrush, get them from the right side of the counter.",
+  "not_found_number":"We can not find the booking number. Please try searching by NAME.",
+  "hover_password" :"Put the mouse over to see the password.",
+  "faq_list": [
+    {
+      "question": "I want to do laundry.",
+      "answer": "Laundry costs 5,000 KRW per bag at the counter (includes washing and drying). Put the cash in an envelope, put it in the laundry bag with your clothes, and leave it next to the counter. Your laundry will be done within 24 hours, and we will place it next to the counter when it's ready."
+    },
+    {
+      "question": "When does the front door close?",
+      "answer": "The front door is open 24 hours."
+    },
+    {
+      "question": "Where can I get drinking water?",
+      "answer": "Use the water purifier on the kitchen table. For hot water, use the electric kettle."
+    },
+    {
+      "question": "I need more towels.",
+      "answer": "Please return used towels to the towel basket on the 2nd floor, then take a new towel from the towel basket on the right side of the counter."
+    },
+    {
+      "question": "Where is the Wi-Fi?",
+      "answer": "The Wi-Fi ID and password are above the light switch or near the door in each room."
+    },
+    {
+      "question": "When can I have breakfast?",
+      "answer": "Breakfast is self-serve in the kitchen from 7 AM to 10 AM."
+    },
+    {
+      "question": "Why is there no one at the counter?",
+      "answer": "Our hostel is unmanned. This helps us save costs, so we can offer cheaper prices. But if you need help, please call us anytime."
+    },
+    {
+      "question": "Can I borrow a power converter and phone charger?",
+      "answer": "Take them from the box on the counter. Please make sure to return them when you check out."
+    },
+    {
+      "question": "Is there a public restroom?",
+      "answer": "Sorry, there is no public restroom on the 1st floor."
+    },
+    {
+      "question": "When can I use the common area?",
+      "answer": "The common area is open 24 hours. But please be quiet after 11 PM and early in the morning because there are guest rooms on the 1st floor."
+    },
+    {
+      "question": "I want to store my bag.",
+      "answer": "You can store your bag in front of the counter before check-in or after check-out."
+    },
+    {
+      "question": "Is there a scale to weigh my bag?",
+      "answer": "There is a portable scale on the table in front of the counter."
+    },
+    {
+      "question": "I need more help.",
+      "answer": "Please make sure to call us using the phone at the counter."
+    }
+  ]
+}
